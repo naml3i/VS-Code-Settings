@@ -7,13 +7,14 @@
     "editor.fontSize": 15,
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Atom One Dark",
     //"git.path": "C:/Users/tle05/AppData/Local/GitHub/PortableGit_f02737a78695063deace08e96d5042710d3e32db/cmd/git.exe",
-    "git.path": "C:/Users/tle05/AppData/Local/Atlassian/SourceTree/git_local/mingw32/bin/git.exe",
+    "git.path": "C:/Users/Nam/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe",
     "git.autofetch": false,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
-    "gitlens.historyExplorer.enabled": true,
-    "latex-workshop.latex.autoBuild.onSave.enabled": false
+    //"gitlens.historyExplorer.enabled": true,
+    "latex-workshop.latex.autoBuild.run": "never",
+    "workbench.colorTheme": "Atom One Dark",
+    "gitlens.views.fileHistory.location": "explorer"
 }
